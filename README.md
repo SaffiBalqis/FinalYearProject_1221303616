@@ -28,9 +28,9 @@ KongsiMakan: A Web-Based Platform for Community Food Sharing
 
 Installation & Setup
  1. Clone the Repository
-git clone https://github.com/SaffiBalqis/Final-Year-Project-1221303616.git
+    git clone https://github.com/SaffiBalqis/Final-Year-Project-1221303616.git
 
-cd Final-Year-Project-1221303616
+    cd Final-Year-Project-1221303616
 
 3. Install PHP dependencies using Composer
    composer install
