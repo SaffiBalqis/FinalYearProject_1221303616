@@ -52,7 +52,7 @@ Installation & Setup
 8. Start the Laravel development server
   php artisan serve
 
-9. open http://localhost:8000 in your browser to view the application.
+9. Open http://localhost:8000 in your browser to view the application.
 
 
   Author:
