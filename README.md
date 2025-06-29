@@ -56,7 +56,7 @@ Installation & Setup
 
 
   Author:
-Saffi Balqis Binti Othman
-Final Year Project, Faculty of Computing & Informatics
-Multimedia University, Cyberjaya
-1221303616@student.mmu.edu.my
+    Saffi Balqis Binti Othman,
+    Final Year Project, Faculty of Computing & Informatics
+    Multimedia University, Cyberjaya
+    1221303616@student.mmu.edu.my
